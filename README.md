@@ -7,7 +7,6 @@ This repository contains code that demonstrates how Expected SARSA, an on-policy
 
 <video width="600" controls>
   <source src="https://github.com/Sergendel/RL_Lunar_Lander_Expected_Sarsa/blob/main/data/ImplementYourAgent.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 ![learning Curve](learning_Curve.png)
