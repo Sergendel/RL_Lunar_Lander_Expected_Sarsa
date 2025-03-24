@@ -4,11 +4,9 @@ Python implementation of the Expected SARSA Reinforcement Learning algorithm app
 🚀 Overview
 This repository contains code that demonstrates how Expected SARSA, an on-policy reinforcement learning algorithm, can solve the challenging Lunar Lander environment.
 
-%%HTML
-<div align="middle">
-<video width="80%" controls>
-      <source src="data/ImplementYourAgent.mp4" type="video/mp4">
-</video></div>
+<video width="600" controls>
+  <source src="https://github.com/Sergendel/RL_Lunar_Lander_Expected_Sarsa/raw/main/data/ImplementYourAgent.mp4" type="video/mp4">
+</video>
 
 ![](Learning_Curve.png)
 
